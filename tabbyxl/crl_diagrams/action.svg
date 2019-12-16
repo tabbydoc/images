@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="201" height="477">
+         <defs>
+            <style type="text/css">
+    @namespace "http://www.w3.org/2000/svg";
+    .line                 {fill: none; stroke: #262626;}
+    .bold-line            {stroke: #0A0A0A; shape-rendering: crispEdges; stroke-width: 2; }
+    .thin-line            {stroke: #0F0F0F; shape-rendering: crispEdges}
+    .filled               {fill: #262626; stroke: none;}
+    text.terminal         {font-family: Verdana, Sans-serif;
+                            font-size: 12px;
+                            fill: #0A0A0A;
+                            font-weight: bold;
+                          }
+    text.nonterminal      {font-family: Verdana, Sans-serif;
+                            font-size: 12px;
+                            fill: #0D0D0D;
+                            font-weight: normal;
+                          }
+    text.regexp           {font-family: Verdana, Sans-serif;
+                            font-size: 12px;
+                            fill: #0F0F0F;
+                            font-weight: normal;
+                          }
+    rect, circle, polygon {fill: #262626; stroke: #262626;}
+    rect.terminal         {fill: #FFFFFF; stroke: #262626;}
+    rect.nonterminal      {fill: #FFFFFF; stroke: #262626;}
+    rect.text             {fill: none; stroke: none;}    
+    polygon.regexp        {fill: #FFFFFF; stroke: #262626;}
+  </style>
+         </defs>
+         <polygon points="9,17 1,13 1,21" />
+         <polygon points="17,17 9,13 9,21" /><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="merge" xlink:href="#merge">
+            <rect x="51" y="3" width="60" height="32" />
+            <rect class="nonterminal" x="49" y="1" width="60" height="32" />
+            <text class="nonterminal" x="59" y="21">merge</text></a><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="split" xlink:href="#split">
+            <rect x="51" y="47" width="46" height="32" />
+            <rect class="nonterminal" x="49" y="45" width="46" height="32" />
+            <text class="nonterminal" x="59" y="65">split</text></a><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="set_text" xlink:href="#set_text">
+            <rect x="51" y="91" width="72" height="32" />
+            <rect class="nonterminal" x="49" y="89" width="72" height="32" />
+            <text class="nonterminal" x="59" y="109">set_text</text></a><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="set_indent" xlink:href="#set_indent">
+            <rect x="51" y="135" width="88" height="32" />
+            <rect class="nonterminal" x="49" y="133" width="88" height="32" />
+            <text class="nonterminal" x="59" y="153">set_indent</text></a><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="set_tag" xlink:href="#set_tag">
+            <rect x="51" y="179" width="68" height="32" />
+            <rect class="nonterminal" x="49" y="177" width="68" height="32" />
+            <text class="nonterminal" x="59" y="197">set_tag</text></a><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="new_entry" xlink:href="#new_entry">
+            <rect x="51" y="223" width="86" height="32" />
+            <rect class="nonterminal" x="49" y="221" width="86" height="32" />
+            <text class="nonterminal" x="59" y="241">new_entry</text></a><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="new_label" xlink:href="#new_label">
+            <rect x="51" y="267" width="84" height="32" />
+            <rect class="nonterminal" x="49" y="265" width="84" height="32" />
+            <text class="nonterminal" x="59" y="285">new_label</text></a><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="add_label" xlink:href="#add_label">
+            <rect x="51" y="311" width="82" height="32" />
+            <rect class="nonterminal" x="49" y="309" width="82" height="32" />
+            <text class="nonterminal" x="59" y="329">add_label</text></a><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="set_parent" xlink:href="#set_parent">
+            <rect x="51" y="355" width="90" height="32" />
+            <rect class="nonterminal" x="49" y="353" width="90" height="32" />
+            <text class="nonterminal" x="59" y="373">set_parent</text></a><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="set_category" xlink:href="#set_category">
+            <rect x="51" y="399" width="102" height="32" />
+            <rect class="nonterminal" x="49" y="397" width="102" height="32" />
+            <text class="nonterminal" x="59" y="417">set_category</text></a><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="group" xlink:href="#group">
+            <rect x="51" y="443" width="56" height="32" />
+            <rect class="nonterminal" x="49" y="441" width="56" height="32" />
+            <text class="nonterminal" x="59" y="461">group</text></a><path class="line" d="m 17 17 h 2 m 20 0 h 10 m 60 0 h 10 m 0 0 h 42 m -142 0 h 20 m 122 0 h 20 m -162 0 q 10 0 10 10 m 142 0 q 0 -10 10 -10 m -152 10 v 24 m 142 0 v -24 m -142 24 q 0 10 10 10 m 122 0 q 10 0 10 -10 m -132 10 h 10 m 46 0 h 10 m 0 0 h 56 m -132 -10 v 20 m 142 0 v -20 m -142 20 v 24 m 142 0 v -24 m -142 24 q 0 10 10 10 m 122 0 q 10 0 10 -10 m -132 10 h 10 m 72 0 h 10 m 0 0 h 30 m -132 -10 v 20 m 142 0 v -20 m -142 20 v 24 m 142 0 v -24 m -142 24 q 0 10 10 10 m 122 0 q 10 0 10 -10 m -132 10 h 10 m 88 0 h 10 m 0 0 h 14 m -132 -10 v 20 m 142 0 v -20 m -142 20 v 24 m 142 0 v -24 m -142 24 q 0 10 10 10 m 122 0 q 10 0 10 -10 m -132 10 h 10 m 68 0 h 10 m 0 0 h 34 m -132 -10 v 20 m 142 0 v -20 m -142 20 v 24 m 142 0 v -24 m -142 24 q 0 10 10 10 m 122 0 q 10 0 10 -10 m -132 10 h 10 m 86 0 h 10 m 0 0 h 16 m -132 -10 v 20 m 142 0 v -20 m -142 20 v 24 m 142 0 v -24 m -142 24 q 0 10 10 10 m 122 0 q 10 0 10 -10 m -132 10 h 10 m 84 0 h 10 m 0 0 h 18 m -132 -10 v 20 m 142 0 v -20 m -142 20 v 24 m 142 0 v -24 m -142 24 q 0 10 10 10 m 122 0 q 10 0 10 -10 m -132 10 h 10 m 82 0 h 10 m 0 0 h 20 m -132 -10 v 20 m 142 0 v -20 m -142 20 v 24 m 142 0 v -24 m -142 24 q 0 10 10 10 m 122 0 q 10 0 10 -10 m -132 10 h 10 m 90 0 h 10 m 0 0 h 12 m -132 -10 v 20 m 142 0 v -20 m -142 20 v 24 m 142 0 v -24 m -142 24 q 0 10 10 10 m 122 0 q 10 0 10 -10 m -132 10 h 10 m 102 0 h 10 m -132 -10 v 20 m 142 0 v -20 m -142 20 v 24 m 142 0 v -24 m -142 24 q 0 10 10 10 m 122 0 q 10 0 10 -10 m -132 10 h 10 m 56 0 h 10 m 0 0 h 46 m 23 -440 h -3" />
+         <polygon points="191,17 199,13 199,21" />
+         <polygon points="191,17 183,13 183,21" /></svg>
