@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="427" height="37">
+<svg xmlns="http://www.w3.org/2000/svg" width="449" height="37">
          <defs>
             <style type="text/css">
     @namespace "http://www.w3.org/2000/svg";
@@ -32,17 +32,17 @@
          <polygon points="17,17 9,13 9,21" />
          <rect x="31" y="3" width="66" height="32" rx="10" />
          <rect class="terminal" x="29" y="1" width="66" height="32" rx="10" />
-         <text class="terminal" x="39" y="21">set tag</text><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="operand" xlink:href="#operand">
-            <rect x="117" y="3" width="72" height="32" />
-            <rect class="nonterminal" x="115" y="1" width="72" height="32" />
-            <text class="nonterminal" x="125" y="21">operand</text></a><rect x="209" y="3" width="34" height="32" rx="10" />
-         <rect class="terminal" x="207" y="1" width="34" height="32" rx="10" />
-         <text class="terminal" x="217" y="21">to</text><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="operand" xlink:href="#operand">
-            <rect x="263" y="3" width="72" height="32" />
-            <rect class="nonterminal" x="261" y="1" width="72" height="32" />
-            <text class="nonterminal" x="271" y="21">operand</text></a><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="EOL" xlink:href="#EOL">
-            <rect x="355" y="3" width="44" height="32" />
-            <rect class="nonterminal" x="353" y="1" width="44" height="32" />
-            <text class="nonterminal" x="363" y="21">EOL</text></a><path class="line" d="m 17 17 h 2 m 0 0 h 10 m 66 0 h 10 m 0 0 h 10 m 72 0 h 10 m 0 0 h 10 m 34 0 h 10 m 0 0 h 10 m 72 0 h 10 m 0 0 h 10 m 44 0 h 10 m 3 0 h -3" />
-         <polygon points="417,17 425,13 425,21" />
-         <polygon points="417,17 409,13 409,21" /></svg>
+         <text class="terminal" x="39" y="21">set tag</text><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="expression" xlink:href="#expression">
+            <rect x="117" y="3" width="90" height="32" />
+            <rect class="nonterminal" x="115" y="1" width="90" height="32" />
+            <text class="nonterminal" x="125" y="21">expression</text></a><rect x="227" y="3" width="34" height="32" rx="10" />
+         <rect class="terminal" x="225" y="1" width="34" height="32" rx="10" />
+         <text class="terminal" x="235" y="21">to</text><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="identifier" xlink:href="#identifier">
+            <rect x="281" y="3" width="76" height="32" />
+            <rect class="nonterminal" x="279" y="1" width="76" height="32" />
+            <text class="nonterminal" x="289" y="21">identifier</text></a><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="EOL" xlink:href="#EOL">
+            <rect x="377" y="3" width="44" height="32" />
+            <rect class="nonterminal" x="375" y="1" width="44" height="32" />
+            <text class="nonterminal" x="385" y="21">EOL</text></a><path class="line" d="m 17 17 h 2 m 0 0 h 10 m 66 0 h 10 m 0 0 h 10 m 90 0 h 10 m 0 0 h 10 m 34 0 h 10 m 0 0 h 10 m 76 0 h 10 m 0 0 h 10 m 44 0 h 10 m 3 0 h -3" />
+         <polygon points="439,17 447,13 447,21" />
+         <polygon points="439,17 431,13 431,21" /></svg>

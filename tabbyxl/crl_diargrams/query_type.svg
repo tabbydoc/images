@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="209" height="345">
+         <defs>
+            <style type="text/css">
+    @namespace "http://www.w3.org/2000/svg";
+    .line                 {fill: none; stroke: #262626;}
+    .bold-line            {stroke: #0A0A0A; shape-rendering: crispEdges; stroke-width: 2; }
+    .thin-line            {stroke: #0F0F0F; shape-rendering: crispEdges}
+    .filled               {fill: #262626; stroke: none;}
+    text.terminal         {font-family: Verdana, Sans-serif;
+                            font-size: 12px;
+                            fill: #0A0A0A;
+                            font-weight: bold;
+                          }
+    text.nonterminal      {font-family: Verdana, Sans-serif;
+                            font-size: 12px;
+                            fill: #0D0D0D;
+                            font-weight: normal;
+                          }
+    text.regexp           {font-family: Verdana, Sans-serif;
+                            font-size: 12px;
+                            fill: #0F0F0F;
+                            font-weight: normal;
+                          }
+    rect, circle, polygon {fill: #262626; stroke: #262626;}
+    rect.terminal         {fill: #FFFFFF; stroke: #262626;}
+    rect.nonterminal      {fill: #FFFFFF; stroke: #262626;}
+    rect.text             {fill: none; stroke: none;}    
+    polygon.regexp        {fill: #FFFFFF; stroke: #262626;}
+  </style>
+         </defs>
+         <polygon points="9,17 1,13 1,21" />
+         <polygon points="17,17 9,13 9,21" />
+         <rect x="51" y="3" width="42" height="32" rx="10" />
+         <rect class="terminal" x="49" y="1" width="42" height="32" rx="10" />
+         <text class="terminal" x="59" y="21">cell</text>
+         <rect x="51" y="47" width="56" height="32" rx="10" />
+         <rect class="terminal" x="49" y="45" width="56" height="32" rx="10" />
+         <text class="terminal" x="59" y="65">entry</text>
+         <rect x="51" y="91" width="52" height="32" rx="10" />
+         <rect class="terminal" x="49" y="89" width="52" height="32" rx="10" />
+         <text class="terminal" x="59" y="109">label</text>
+         <rect x="51" y="135" width="78" height="32" rx="10" />
+         <rect class="terminal" x="49" y="133" width="78" height="32" rx="10" />
+         <text class="terminal" x="59" y="153">category</text>
+         <rect x="51" y="179" width="70" height="32" rx="10" />
+         <rect class="terminal" x="49" y="177" width="70" height="32" rx="10" />
+         <text class="terminal" x="59" y="197">no cells</text>
+         <rect x="51" y="223" width="88" height="32" rx="10" />
+         <rect class="terminal" x="49" y="221" width="88" height="32" rx="10" />
+         <text class="terminal" x="59" y="241">no entries</text>
+         <rect x="51" y="267" width="80" height="32" rx="10" />
+         <rect class="terminal" x="49" y="265" width="80" height="32" rx="10" />
+         <text class="terminal" x="59" y="285">no labels</text>
+         <rect x="51" y="311" width="110" height="32" rx="10" />
+         <rect class="terminal" x="49" y="309" width="110" height="32" rx="10" />
+         <text class="terminal" x="59" y="329">no categories</text>
+         <path class="line" d="m 17 17 h 2 m 20 0 h 10 m 42 0 h 10 m 0 0 h 68 m -150 0 h 20 m 130 0 h 20 m -170 0 q 10 0 10 10 m 150 0 q 0 -10 10 -10 m -160 10 v 24 m 150 0 v -24 m -150 24 q 0 10 10 10 m 130 0 q 10 0 10 -10 m -140 10 h 10 m 56 0 h 10 m 0 0 h 54 m -140 -10 v 20 m 150 0 v -20 m -150 20 v 24 m 150 0 v -24 m -150 24 q 0 10 10 10 m 130 0 q 10 0 10 -10 m -140 10 h 10 m 52 0 h 10 m 0 0 h 58 m -140 -10 v 20 m 150 0 v -20 m -150 20 v 24 m 150 0 v -24 m -150 24 q 0 10 10 10 m 130 0 q 10 0 10 -10 m -140 10 h 10 m 78 0 h 10 m 0 0 h 32 m -140 -10 v 20 m 150 0 v -20 m -150 20 v 24 m 150 0 v -24 m -150 24 q 0 10 10 10 m 130 0 q 10 0 10 -10 m -140 10 h 10 m 70 0 h 10 m 0 0 h 40 m -140 -10 v 20 m 150 0 v -20 m -150 20 v 24 m 150 0 v -24 m -150 24 q 0 10 10 10 m 130 0 q 10 0 10 -10 m -140 10 h 10 m 88 0 h 10 m 0 0 h 22 m -140 -10 v 20 m 150 0 v -20 m -150 20 v 24 m 150 0 v -24 m -150 24 q 0 10 10 10 m 130 0 q 10 0 10 -10 m -140 10 h 10 m 80 0 h 10 m 0 0 h 30 m -140 -10 v 20 m 150 0 v -20 m -150 20 v 24 m 150 0 v -24 m -150 24 q 0 10 10 10 m 130 0 q 10 0 10 -10 m -140 10 h 10 m 110 0 h 10 m 23 -308 h -3" />
+         <polygon points="199,17 207,13 207,21" />
+         <polygon points="199,17 191,13 191,21" /></svg>

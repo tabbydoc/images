@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="283" height="57">
+<svg xmlns="http://www.w3.org/2000/svg" width="289" height="37">
          <defs>
             <style type="text/css">
     @namespace "http://www.w3.org/2000/svg";
@@ -28,13 +28,15 @@
     polygon.regexp        {fill: #FFFFFF; stroke: #262626;}
   </style>
          </defs>
-         <polygon points="9,51 1,47 1,55" />
-         <polygon points="17,51 9,47 9,55" /><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="importing" xlink:href="#importing">
-            <rect x="51" y="3" width="80" height="32" />
-            <rect class="nonterminal" x="49" y="1" width="80" height="32" />
-            <text class="nonterminal" x="59" y="21">importing</text></a><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="rule" xlink:href="#rule">
-            <rect x="191" y="3" width="44" height="32" />
-            <rect class="nonterminal" x="189" y="1" width="44" height="32" />
-            <text class="nonterminal" x="199" y="21">rule</text></a><path class="line" d="m 17 51 h 2 m 20 0 h 10 m 0 0 h 90 m -120 0 l 20 0 m -1 0 q -9 0 -9 -10 l 0 -14 q 0 -10 10 -10 m 100 34 l 20 0 m -20 0 q 10 0 10 -10 l 0 -14 q 0 -10 -10 -10 m -100 0 h 10 m 80 0 h 10 m 40 34 h 10 m 0 0 h 54 m -84 0 l 20 0 m -1 0 q -9 0 -9 -10 l 0 -14 q 0 -10 10 -10 m 64 34 l 20 0 m -20 0 q 10 0 10 -10 l 0 -14 q 0 -10 -10 -10 m -64 0 h 10 m 44 0 h 10 m 23 34 h -3" />
-         <polygon points="273,51 281,47 281,55" />
-         <polygon points="273,51 265,47 265,55" /></svg>
+         <polygon points="9,17 1,13 1,21" />
+         <polygon points="17,17 9,13 9,21" /><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="identifier" xlink:href="#identifier">
+            <rect x="31" y="3" width="76" height="32" />
+            <rect class="nonterminal" x="29" y="1" width="76" height="32" />
+            <text class="nonterminal" x="39" y="21">identifier</text></a><rect x="127" y="3" width="24" height="32" rx="10" />
+         <rect class="terminal" x="125" y="1" width="24" height="32" rx="10" />
+         <text class="terminal" x="135" y="21">:</text><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="expression" xlink:href="#expression">
+            <rect x="171" y="3" width="90" height="32" />
+            <rect class="nonterminal" x="169" y="1" width="90" height="32" />
+            <text class="nonterminal" x="179" y="21">expression</text></a><path class="line" d="m 17 17 h 2 m 0 0 h 10 m 76 0 h 10 m 0 0 h 10 m 24 0 h 10 m 0 0 h 10 m 90 0 h 10 m 3 0 h -3" />
+         <polygon points="279,17 287,13 287,21" />
+         <polygon points="279,17 271,13 271,21" /></svg>
